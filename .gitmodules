@@ -5,3 +5,6 @@
 [submodule "bcRP"]
 	path = bcRP
 	url = https://github.com/juliocollazos64/bcrp
+[submodule "pater"]
+	path = pater
+	url = https://github.com/juliocollazos64/pater
