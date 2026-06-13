@@ -5,6 +5,9 @@
 [submodule "bcRP"]
 	path = bcRP
 	url = https://github.com/juliocollazos64/bcrp
+[submodule "cookie"]
+	path = cookie
+	url = https://github.com/juliocollazos64/cookie
 [submodule "pater"]
 	path = pater
 	url = https://github.com/juliocollazos64/pater
