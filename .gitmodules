@@ -8,6 +8,9 @@
 [submodule "cookie"]
 	path = cookie
 	url = https://github.com/juliocollazos64/cookie
+[submodule "mochita"]
+	path = mochita
+	url = https://github.com/juliocollazos64/mochita
 [submodule "pater"]
 	path = pater
 	url = https://github.com/juliocollazos64/pater
